@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PITSOS</string>
+    <string name="power" />
+    <string name="mes">ΚΑΤΑΣΤΑΣΗ ΠΛΥΝΤΗΡΙΟΥ:                ΚΛΕΙΣΤΟ</string>
+    <string name="com">ΕΝΕΡΓΟΠΟΙΗΣΗ
+        ΠΛΥΝΤΗΡΙΟΥ</string>
+    <string name="wel">ΚΑΛΩΣ ΗΡΘΑΤΕ</string>
+    <string name="info">ΠΛΗΡΟΦΟΡΙΕΣ</string>
+    <string name="quest">TODO</string>
+    <string name="washer">TODO</string>
+    <string name="title_activity_step1">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_info">Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title2">ΒΗΜΑ 2</string>
+    <string name="mes2">Προσθέστε την απαραίτητη ποσότητα απορρυπαντικού και μαλακτικού</string>
+    <string name="nextbtn2"><![CDATA[ΕΠΟΜΕΝΟ]]></string>
+    <string name="name1">ΣΚΟΥΡΟΧΡΟΜΑ</string>
+    <string name="dark">ΣΚΟΥΡΟΧΡΩΜΑ</string>
+    <string name="ready_mes">Η πλύση είναι έτοιμη να ξεκινήσει.</string>
+    <string name="startNow">Έναρξη τώρα</string>
+    <string name="StartLater">εναρξη σε...</string>
+    <string name="todo">TODO</string>
+    <string name="cancel">ακυρωση</string>
+    <string name="one">ΒΗΜΑ 1</string>
+    <string name="hello">hello word</string>
+    <string name="infoText">
+
+
+Όταν βάζουμε τα ρούχα μας για πλύσιμο χρησιμοποιούμε συνήθως 3 θερμοκρασίες(30,40,60).\n\n
+       - Τα σκουρόχρωμα πλένονται στους 40 βαθμούς.\n Στις στροφές επιλέγουμε το νούμερο 800.\n\n
+        - Τα μάλλινα πλένονται στους 20 βαθμούς. \n Στις στροφές επιλέγουμε το νούμερο 400. \n\n
+        - Τα λευκά πλένονται στους 60 βαθμούς.\n Στις στροφές επιλέγουμε το νούμερο 800. \n\n
+        - Οι κουρτίνες πλένονται στους 60 βαθμούς.\n Στις στροφές επιλέγουμε το νούμερο 400. \n\n
+        - Για την γρήγορη πλύση επιλέγουμε να πλύνουμε τα ρούχα στους 20 βαθμούς.\n Στις στροφές επιλέγουμε το νούμερο 800. \n\n
+        - Για την οικονομική πλύση επιλέγουμε να πλύνουμε τα ρούχα στους 40 βαθμούς.\n Στις στροφές επιλέγουμε το νούμερο 800.
+</string>
+
+    <string-array name="array_temp">
+        <item>20°C</item>
+        <item>30°C</item>
+        <item>40°C</item>
+        <item>60°C</item>
+        <item>90°C</item>
+    </string-array>
+
+    <string-array name="array_turns">
+        <item>400</item>
+        <item>600</item>
+        <item>800</item>
+        <item>1000</item>
+        <item>1200</item>
+    </string-array>
+</resources>

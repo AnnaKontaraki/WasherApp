@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#80D8FF</color>
+    <color name="colorPrimaryDark">#8C9EFF</color>
+    <color name="colorAccent">#A7FFEB</color>
+    <color name="somone">#F39993</color>
+    <color name="bez">#FFBDB8</color>
+    <color name="mpez">#EAE7E7</color>
+</resources>
